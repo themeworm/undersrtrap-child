@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../../..">
+      <sourceFolder url="file://$MODULE_DIR$/../../plugins" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../plugins/agency-configurator/app" isTestSource="false" packagePrefix="ConfiguratorCore" />
+      <sourceFolder url="file://$MODULE_DIR$/../../plugins/ajax-search-lite" isTestSource="false" packagePrefix="WPDRMS" />
+      <sourceFolder url="file://$MODULE_DIR$/../../plugins/elementor/includes" isTestSource="false" packagePrefix="Elementor" />
+      <sourceFolder url="file://$MODULE_DIR$/../../plugins/finlead-property/includes" isTestSource="false" packagePrefix="PropertyCore" />
+      <sourceFolder url="file://$MODULE_DIR$/../../plugins/newsletter/classes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../plugins/woocommerce/packages/action-scheduler/classes" isTestSource="false" packagePrefix="Action_Scheduler" />
+      <sourceFolder url="file://$MODULE_DIR$/../../plugins/wp-phpmyadmin-extension/lib/phpMyAdmin/libraries/classes" isTestSource="false" packagePrefix="PhpMyAdmin" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../wp-includes" isTestSource="false" packagePrefix="PHPMailer" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

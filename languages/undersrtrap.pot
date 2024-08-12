@@ -1,0 +1,76 @@
+# Copyright (C) 2024 the Understrap Contributors
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Understrap Child 1.2.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/undersrtrap-child\n"
+"POT-Creation-Date: 2024-08-11 15:36:32+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: archive-finlead_property.php:38 taxonomy-property_type.php:43
+msgid "Недвижимость"
+msgstr ""
+
+#: functions.php:35
+msgid "Площадь"
+msgstr ""
+
+#: functions.php:36 functions.php:45
+msgid "м2"
+msgstr ""
+
+#: functions.php:39
+msgid "Стоимость"
+msgstr ""
+
+#: functions.php:40
+msgid "р."
+msgstr ""
+
+#: functions.php:42
+msgid "Адрес"
+msgstr ""
+
+#: functions.php:44
+msgid "Жилая площадь"
+msgstr ""
+
+#: functions.php:47
+msgid "Этаж"
+msgstr ""
+
+#: single-finlead_property.php:69
+msgid "Тип недвижимости:"
+msgstr ""
+
+#: single-finlead_property.php:85
+msgid "Фотографии объекта"
+msgstr ""
+
+#: template-parts/property.php:51
+msgid "Тип:"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Understrap Child"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://understrap.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Understrap Child Theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "the Understrap Contributors"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://github.com/understrap/understrap-child/graphs/contributors"
+msgstr ""
